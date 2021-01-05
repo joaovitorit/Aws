@@ -5,6 +5,6 @@ Scripts-AWS
 
 /var/log/cloud-init-output.log
 
-Exemplo de script na AWS
+Exemplo de script de inicilização na AWS
 
 https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/user-data.html
